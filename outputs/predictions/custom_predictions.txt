@@ -1,0 +1,35 @@
+Review: great
+Predicted Sentiment: Positive
+Confidence Score: 0.7007
+Encoded Review Preview: [87]
+--------------------------------------------------
+Review: amazing
+Predicted Sentiment: Positive
+Confidence Score: 0.7741
+Encoded Review Preview: [480]
+--------------------------------------------------
+Review: phenomenal
+Predicted Sentiment: Positive
+Confidence Score: 0.5077
+Encoded Review Preview: [6814]
+--------------------------------------------------
+Review: The movie was absolutely fantastic. Acting was amazing.
+Predicted Sentiment: Negative
+Confidence Score: 0.5777
+Encoded Review Preview: [4, 20, 16, 427, 2, 116, 16, 2]
+--------------------------------------------------
+Review: fantastic
+Predicted Sentiment: Positive
+Confidence Score: 0.7685
+Encoded Review Preview: [777]
+--------------------------------------------------
+Review: worst
+Predicted Sentiment: Negative
+Confidence Score: 0.9320
+Encoded Review Preview: [249]
+--------------------------------------------------
+Review: worse
+Predicted Sentiment: Negative
+Confidence Score: 0.8105
+Encoded Review Preview: [433]
+--------------------------------------------------
